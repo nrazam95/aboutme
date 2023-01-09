@@ -65,6 +65,8 @@
 
 ### App Development  
 <div align="center">  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="Electron.js" height="50" /></a>
+<a href="https://cordova.apache.org/" target="_blank"><img style="margin: 10px" src="https://cordova.apache.org/static/img/cordova_bot.png" alt="Cordova" height="50" /></a>
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
 </div>
